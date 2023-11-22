@@ -5,4 +5,9 @@
 
 .cabecalho{
     background-color: bisque;
+    color: plum;
+    text-align: center;
+    border: 8px;
+    border-color: blueviolet;
+    border-style: groove;
 }
