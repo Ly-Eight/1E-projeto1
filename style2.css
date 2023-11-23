@@ -1,4 +1,4 @@
-.cabecalho{
+.main{
     background-color: bisque;
     color: plum;
     text-align: center;
@@ -6,6 +6,10 @@
     border-color: blueviolet;
     border-style: groove;
     height: 20px;
+}
+
+.cabecalho{
+    color: plum;
 }
 
 #waneella{
