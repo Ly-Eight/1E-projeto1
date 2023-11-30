@@ -25,6 +25,7 @@
 
     #waneellalink{
         font-size: 20px;
+        font-style: italic;
     }
 
 
@@ -39,5 +40,6 @@
     }
 
     #kotakilink{
+        font-style: italic;
         font-size: 20px;
     }
