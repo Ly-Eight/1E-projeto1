@@ -14,7 +14,9 @@
 }
 
 #waneellatext{
+    font-style: italic;
     font-size: 30px;
+    font-family: cursive;
 }
 
     #waneella{
@@ -27,7 +29,9 @@
 
 
 #kotakitext{
+    font-style: italic;
     font-size: 30px;
+    font-family: cursive;
 }
 
     #kotaki{
