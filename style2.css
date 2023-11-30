@@ -14,26 +14,26 @@
 }
 
 #waneellatext{
-    size: 500px;
+    font-size: 30px;
 }
 
-
     #waneella{
-      width: 500px;
+        width: 500px;
     }
 
     #waneellalink{
-        size:
+        font-size: 20px;
     }
 
+
 #kotakiext{
-    
+    font-size: 30px;
 }
 
     #kotaki{
-       width: 500px;
+        width: 500px;
     }
 
     #kotakilink{
-        
+        font-size: 20px;
     }
